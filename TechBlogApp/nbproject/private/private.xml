@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1">
+        <file>
+            <url>src/java/com/techblog/entities/Posts.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>10</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/dao/PostDao.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/web/Profile.jsp</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/web/Load_Posts.jsp</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/servlets/AddPostServlet.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/servlets/LikeServlet.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/web/JavaScript/MyJavaSrcipt.js</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/Helper/Helper.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/dao/LikeDao.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/web/show_post_detail.jsp</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/entities/User.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/dao/UserDao.java</file>
+            <file>file:/C:/Users/CWB_BETUL/Desktop/jdbc/TechBlogApp/src/java/com/techblog/entities/Posts.java</file>
+        </group>
+    </open-files>
+</project-private>
